@@ -2,7 +2,7 @@
 # Piano-JS
 
 Um piano feito em javascript, composto por uma interface html com css, e regras em javascript.\
-Baseado no tutorial do canal [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) , [Build A Piano With JavaScript - Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) , onde passo a passo é ensinado a fazer o mesmo conteúdo que se encontra aqui.
+Baseado no tutorial do canal [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) , [Build A Piano With JavaScript - Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) , onde passo a passo é ensinado a fazer o mesmo conteúdo que se encontra aqui, com diferença da paleta de cores haha.
 
 
 ## Iniciando...
